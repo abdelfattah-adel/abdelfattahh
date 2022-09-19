@@ -157,6 +157,10 @@ footer p{
         .ttt{
             margin: -5px; 
             }
+            header section button{
+                padding: 0px;
+            }  
+
         body{
             width: 100%;
         }    
