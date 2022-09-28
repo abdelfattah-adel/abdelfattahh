@@ -72,27 +72,27 @@ header section h6{
 font-size: 20px;
 letter-spacing: 2px ;padding-bottom: 10PX;
 }
-header section button{
+header section .btn1{
 padding: 20px;
-background-color: rgb(160, 160, 160, 0.5);
 border: none;
 font-weight: bold;
 
 
 }
-header section button:hover{
-background-color:rgb(160, 160, 160, 0.7) ;
+header section .btn1:hover{
+color: #000000 !important;
+    background-color: indianred !important;
 }
 .ttt{
 margin: 350px 0 0 0; 
 }
 .ttt a{
-color: rgb(3, 204, 245);
+color: rgb(255, 255, 255);
 display: inline-block;
 }
 .ttt a:hover{
 
-color: rgb(255, 255, 255);
+color: rgb(0, 242, 255);
 }
 button{
 background-color: black !important;
